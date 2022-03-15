@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/66232853/155928382-f1b54385-e6f0-483b-
 
 ## Dataset License  
 The datasets can ONLY be used for research in non-profit organization, and academic purposes.
-Without the expressed permission of NEC corporation, any of the following will be **illegal**: redistribution (BRIO-TA dataset and its URL), generation of a new sequence from this dataset, and commercial usage of any of the dataset in any way or form, either partially or entirety
+Without the expressed permission of NEC corporation, any of the following will be **illegal**: redistribution (BRIO-TA dataset and its URL for distribution), generation of a new sequence from this dataset, and commercial usage of any of the dataset in any way or form, either partially or entirety
 
 
 ## How to get dataset
