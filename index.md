@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# BRIO Toy Assembly Datase (BRIO-TA)
+## What is BRIO-TA dataset?  
+BRIO-TA is the dataset about the scene of assembling toy model of a car and is designed to simulate operations in factory assembly. 
+In contrast with the existing dataset, BRIO-TA consists of two types of scenarios: standaridized assembly processes and anomalous assembly processes.
+The anomalies are further categorized into incorrect orders, omissions, and abnormal durations. A subject in a video is asked to do either a normal work or one of the three anomalies, and all video frames are manually annotated to 23 action classes.
 
-You can use the [editor on GitHub](https://github.com/Tarmo-moriwaki/BRIO-TAsample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Contents of the dataset**  
+- 75 videos of toy assembling scenes
+  - 30 videos of the standaridized assembly process
+  - 45 videos of the anomalous assembly processes  
+- annotation files
+  - frame-wise action label
+  - starting and ending frame of the section which anomalous assemblies occurred
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Sample videos
+**The standardized assembly process sequence**  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**The 3 types of anomalous assembly processes sequences**  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Dataset License  
+The datasets can ONLY be used for research in non-profit organization, and academic purposes.
+Without the expressed permission of NEC corporation, any of the following will be **illegal**: redistribution (BRIO-TA dataset and its URL), generation of a new sequence from this dataset, and commercial usage of any of the dataset in any way or form, either partially or entirety
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## How to get dataset
+- We will fill the contents after the paper be published  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tarmo-moriwaki/BRIO-TAsample/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
